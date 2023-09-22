@@ -1,6 +1,3 @@
-Certainly! Based on the data you provided, here's a simplified project report on your Superstore Sales Analysis in Power BI:
-
----
 
 # Superstore Sales Analysis Project Report
 
